@@ -1,0 +1,5 @@
+id,nome,cognome,ruolo,dipartimento,stipendio,dataAssunzione
+1,Mario,Rossi,Sviluppatore,IT,45000.00,2020-01-15
+2,Anna,Bianchi,Project Manager,IT,60000.00,2018-03-22
+3,Giuseppe,Verdi,Contabile,Finanza,48000.00,2019-07-10
+4,paolo,ruffini,sviluppatore,IT,67000.0,2018-05-12
